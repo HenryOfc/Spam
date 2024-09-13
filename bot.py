@@ -3,9 +3,9 @@ import asyncio
 import os
 
 # Llenar con los datos de tu cuenta
-api_id = 'coloca el tuyo'
-api_hash = 'tu api hash'
-numero = 'coloca tu numero incluyendo el codigo'
+api_id = '29009837'
+api_hash = '1d388952a2f1f03de04a4b94f64eb6ed'
+numero = '+51918299647'
 
 # Crear el cliente de Telethon
 client = TelegramClient('session_name', api_id, api_hash)
